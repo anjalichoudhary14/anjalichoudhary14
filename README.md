@@ -1,4 +1,3 @@
-![logo](https://github.com/anjalichoudhary14/anjalichoudhary14/blob/main/Blue%20Gradient%20Product%20Manager%20LinkedIn%20Article%20Cover%20Image%20(5).png)
 
 <h1 align="center">Hi 👋, I'm Anjali Choudhary</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
